@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Title
-st.title("📊 My First Data Dashboard")
+st.title("📊 My First Data Dashboard")gti
 
 # โหลดข้อมูล (ตัวอย่างสร้างเอง)
 data = {
